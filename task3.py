@@ -18,3 +18,5 @@
 score =100
 print (f"the original number is {score/3}")
 print (f" the proper int number is {score//3}")
+age =int(input("enter your age: "))#input type always in string, that's why to get int input set int before take integer
+print(f"Your age is {age}")
