@@ -12,4 +12,4 @@ while True:
     elif guess < num:
         print("You guess too low")
     else:
-        print("You guess too high"
+        print("You guess too high")
